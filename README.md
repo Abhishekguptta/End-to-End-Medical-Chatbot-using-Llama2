@@ -1,4 +1,4 @@
-# End-to-End-Medical-Chatbot-using-Llama2
+# MedBotX: AI-Powered Health Assistant Using Llama2
 
 # How to run?
 ### STEPS:
